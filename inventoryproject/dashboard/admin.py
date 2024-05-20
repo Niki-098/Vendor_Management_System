@@ -14,4 +14,3 @@ class ProductAdmin(admin.ModelAdmin):
 admin.site.register(Product, ProductAdmin)
 # admin.site.unregister(Group)
 #grouping by the choice
-#can be done by ourself
